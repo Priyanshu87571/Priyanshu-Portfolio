@@ -6,7 +6,7 @@ This portfolio highlights my journey, achievements, and technical capabilities â
 Demo Link : priyanshu-portfolio-dusky.vercel.app
 
 
- Features
+ # Features
 
 ðŸŽ¨ Modern & Responsive UI (mobile-friendly)
 
