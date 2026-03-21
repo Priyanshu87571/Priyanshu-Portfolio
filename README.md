@@ -20,7 +20,7 @@ Demo Link : priyanshu-portfolio-dusky.vercel.app
 
 ⚡ Fast loading & SEO optimized
 
-🛠️ Tech Stack
+ Tech Stack
 
 Depending on your tech, but here is a standard set:
 
