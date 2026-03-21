@@ -39,6 +39,7 @@ If you tell me your actual stack, I’ll customize this section.
 📁 Project Structure
 
 portfolio/
+
 ├── public/
 ├── src/
 │   ├── components/
