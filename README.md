@@ -61,8 +61,6 @@ portfolio/
 └── .gitignore
 
 
-(I can adjust this if your structure is different.)
-
 ## Setup & Installation
 
 Clone the repository:
