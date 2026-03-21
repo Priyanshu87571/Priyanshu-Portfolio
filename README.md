@@ -52,7 +52,7 @@ portfolio/
 
 (I can adjust this if your structure is different.)
 
-💻 Setup & Installation
+## Setup & Installation
 
 Clone the repository:
 
