@@ -65,7 +65,7 @@ portfolio/
 
 Clone the repository:
 
-git clone 
+git clone :- 
 
 Install dependencies (if using React/Vite):
 
