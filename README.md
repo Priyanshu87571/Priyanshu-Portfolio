@@ -65,7 +65,7 @@ portfolio/
 
 Clone the repository:
 
-git clone :- 
+git clone :- https://github.com/Priyanshu87571/Priyanshu-Portfolio
 
 Install dependencies (if using React/Vite):
 
