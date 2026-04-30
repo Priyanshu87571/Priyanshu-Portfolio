@@ -3,7 +3,7 @@
 A modern, responsive Portfolio Website built to showcase my projects, skills, and experience as a developer.
 This portfolio highlights my journey, achievements, and technical capabilities — designed with clean UI, smooth animations, and optimized performance.
 
-Live Link : [priyanshu-portfolio-dusky.vercel.app](https://priyanshu-portfolio-dusky.vercel.app)
+Live Link :- [priyanshu-portfolio-dusky.vercel.app](https://priyanshu-portfolio-dusky.vercel.app)
 
 
  ## Features
@@ -20,7 +20,7 @@ Live Link : [priyanshu-portfolio-dusky.vercel.app](https://priyanshu-portfolio-d
 
 ⚡ Fast loading & SEO optimized
 
-## Tech Stack
+### Tech Stack
 
 Depending on your tech, but here is a standard set:
 
