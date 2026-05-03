@@ -28,7 +28,7 @@ HTML5
 
 CSS3 / Tailwind CSS / Bootstrap (whichever you used)
 
-JavaScript / React.js (choose your actual one)
+JavaScript / React.js 
 
 Git & GitHub for version control
 
