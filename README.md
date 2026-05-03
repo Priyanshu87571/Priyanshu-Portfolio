@@ -34,8 +34,6 @@ Git & GitHub for version control
 
 Vercel / Netlify / GitHub Pages for deployment
 
-If you tell me your actual stack, I’ll customize this section.
-
 📁 Project Structure
 
 portfolio/
