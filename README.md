@@ -26,7 +26,7 @@ Depending on your tech, but here is a standard set:
 
 HTML5
 
-CSS3 / Tailwind CSS / Bootstrap (whichever you used)
+CSS3 / Tailwind CSS / Bootstrap 
 
 JavaScript / React.js 
 
